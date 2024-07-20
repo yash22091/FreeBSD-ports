@@ -61,7 +61,7 @@
 #include "php.h"
 #include "ext/standard/info.h"
 #include "php_pfSense.h"
-#include "pfSense_arginfo.h"
+/* #include pfSense_arginfo.h */
 
 #include "pfSense_private.h"
 
